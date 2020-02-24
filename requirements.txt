@@ -1,0 +1,5 @@
+configparser
+pip
+schedule
+setuptools
+urllib3
